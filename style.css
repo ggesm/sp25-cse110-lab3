@@ -144,7 +144,7 @@ main {
 /* Responsiveness */
 @media screen and (max-width: 768px) {
   body {
-    background color: black;
+    background-color: black;
   }
 
   h1 {
@@ -187,7 +187,7 @@ h3 {
 
 /* Attribute */
 select[id="animals"] {
-  background color: teal;
+  background-color: teal;
 }
 
 /* Pseudo-class */
@@ -228,12 +228,10 @@ section:has(video) {
   padding: 1rem;
 }
 
-section {
-  & > h2 {
-    text-transform: uppercase;
-  }
+section > h2 {
+  text-transform: uppercase;
+}
 
-  &:hover {
-    box-shadow: 0 4px 10px lightblue;
-  }
+section:hover {
+  box-shadow: 0 4px 10px lightblue;
 }
