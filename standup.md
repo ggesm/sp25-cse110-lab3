@@ -3,11 +3,17 @@
 
 ## Date and Time <br>
 **Date:** [Insert Date] <br>
-**Time:** 3:00pm [Insert Time]
+**Time:** [Insert Time]
 
 ---
 ## Today's Plan
 [Insert the plan for today's meeting] 
+
+---
+
+## What Was Discussed Last Meeting
+**Date:** [Insert the date of the last meeting] 
+[Insert what was discussed last meeting]
 
 ---
 
