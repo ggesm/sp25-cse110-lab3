@@ -26,9 +26,12 @@
 
 ## Member Checkup 
 Team Member: [Insert Name] <br>
-* **Yesterday's Work:** [If you did any work, briefly describe the work that you did] <br> <br>
-* **Today's Work:** [Insert any work you have done today or will do for the day] <br> <br>
-* **Blocker:** [Insert any issues or blockers preventing you from completing your tasks] <br> <br>
+* **Yesterday's Work:** [If you did any work, briefly describe the work that you did] <br>
+  
+* **Today's Work:** [Insert any work you have done today or will do for the day] <br>
+  
+* **Blocker:** [Insert any issues or blockers preventing you from completing your tasks] <br>
+  
 * **Notes:** [Any additional notes or comments]
 
 
