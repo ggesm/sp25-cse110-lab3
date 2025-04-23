@@ -6,14 +6,15 @@
 **Time:** [Insert Time]
 
 ---
-## Today's Plan
-[Insert the plan for today's meeting] 
-
----
 
 ## What Was Discussed Last Meeting
 **Date:** [Insert the date of the last meeting] <br>
 [Summarize what was discussed last meeting]
+
+---
+
+## Today's Plan
+[Insert the plan for today's meeting] 
 
 ---
 
