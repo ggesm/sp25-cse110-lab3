@@ -25,6 +25,10 @@
 ---
 
 ## Member Checkup 
+[Check on the work each member has done to keep track on who is doing what]
+
+---
+
 Team Member: [Insert Name] <br>
 * **Yesterday's Work:** [If you did any work, briefly describe the work that you did] <br>
   
@@ -33,5 +37,35 @@ Team Member: [Insert Name] <br>
 * **Blocker:** [Insert any issues or blockers preventing you from completing your tasks] <br>
   
 * **Notes:** [Any additional notes or comments]
+
+---
+
+Team Member: [Insert Name] <br>
+* **Yesterday's Work:** [If you did any work, briefly describe the work that you did] <br>
+  
+* **Today's Work:** [Insert any work you have done today or will do for the day] <br>
+  
+* **Blocker:** [Insert any issues or blockers preventing you from completing your tasks] <br>
+  
+* **Notes:** [Any additional notes or comments]
+
+---
+
+Team Member: [Insert Name] <br>
+* **Yesterday's Work:** [If you did any work, briefly describe the work that you did] <br>
+  
+* **Today's Work:** [Insert any work you have done today or will do for the day] <br>
+  
+* **Blocker:** [Insert any issues or blockers preventing you from completing your tasks] <br>
+  
+* **Notes:** [Any additional notes or comments]
+
+---
+
+**(Add as many templates above for how many team members attend the meeting or enough for each team member)**
+
+
+
+
 
 
