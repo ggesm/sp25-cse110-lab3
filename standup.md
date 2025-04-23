@@ -17,6 +17,14 @@
 
 ---
 
+## Important Topics
+
+| Topic | Description | Results |
+|-------|-------------|---------|
+| [State the topic] | [Describe the topic and how it impacts work] | [Note the results and decisions made during the meeting] |
+
+---
+
 ## Participants
 [Insert Participants here]
 
