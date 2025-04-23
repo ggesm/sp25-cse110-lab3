@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  color: hsl(158, 85, 37);
+  color: hsl(158, 100, 37);
   
 }
 
@@ -19,12 +19,10 @@ p {
   color: black;
 }
 
-/* Wider-gamut color with fallback */
 section {
-  background-color: color-gamut: srbg;
+  background-color: rgba(200, 200, 255, 0.5);
 }
 
-/* CSS Variable with Fallback */
 :root {
   --accent: color-mix(in srgb, blue 70%, green 30%);
 }
