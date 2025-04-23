@@ -6,20 +6,20 @@
 **Time:** 3:00pm [Insert Time]
 
 ---
+## Today's Plan
+[Insert the plan for today's meeting] 
+
+---
 
 ## Participants
 [Insert Participants here]
 
 ---
 
-## Today's Plan
-
-
-
----
-
 ## Important Task to Complete
-
+[Bullet point any important task and when they need to be done, example down below]
+1. Task 1 **(DUE DATE: )**
+2. Task 2 **(DUE DATE: )**
 
 
 ---
