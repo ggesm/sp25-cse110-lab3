@@ -30,35 +30,35 @@
 ---
 
 Team Member: [Insert Name] <br>
-* **Yesterday's Work:** [If you did any work, briefly describe the work that you did] <br>
+* **Yesterday's Work:** <br> [If you did any work, briefly describe the work that you did] <br>
   
-* **Today's Work:** [Insert any work you have done today or will do for the day] <br>
+* **Today's Work:** <br> [Insert any work you have done today or will do for the day] <br>
   
-* **Blocker:** [Insert any issues or blockers preventing you from completing your tasks] <br>
+* **Blocker:** <br> [Insert any issues or blockers preventing you from completing your tasks] <br>
   
-* **Notes:** [Any additional notes or comments]
+* **Notes:** <br> [Any additional notes or comments]
 
 ---
 
 Team Member: [Insert Name] <br>
-* **Yesterday's Work:** [If you did any work, briefly describe the work that you did] <br>
+* **Yesterday's Work:** <br> [If you did any work, briefly describe the work that you did] <br>
   
-* **Today's Work:** [Insert any work you have done today or will do for the day] <br>
+* **Today's Work:** <br> [Insert any work you have done today or will do for the day] <br>
   
-* **Blocker:** [Insert any issues or blockers preventing you from completing your tasks] <br>
+* **Blocker:** <br> [Insert any issues or blockers preventing you from completing your tasks] <br>
   
-* **Notes:** [Any additional notes or comments]
+* **Notes:** <br> [Any additional notes or comments]
 
 ---
 
 Team Member: [Insert Name] <br>
-* **Yesterday's Work:** [If you did any work, briefly describe the work that you did] <br>
+* **Yesterday's Work:** <br> [If you did any work, briefly describe the work that you did] <br>
   
-* **Today's Work:** [Insert any work you have done today or will do for the day] <br>
+* **Today's Work:** <br> [Insert any work you have done today or will do for the day] <br>
   
-* **Blocker:** [Insert any issues or blockers preventing you from completing your tasks] <br>
+* **Blocker:** <br> [Insert any issues or blockers preventing you from completing your tasks] <br>
   
-* **Notes:** [Any additional notes or comments]
+* **Notes:** <br> [Any additional notes or comments]
 
 ---
 
