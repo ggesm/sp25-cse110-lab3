@@ -12,7 +12,7 @@
 ---
 
 ## What Was Discussed Last Meeting
-**Date:** [Insert the date of the last meeting] 
+**Date:** [Insert the date of the last meeting] <br>
 [Insert what was discussed last meeting]
 
 ---
